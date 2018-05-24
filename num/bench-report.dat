@@ -1,0 +1,3 @@
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,

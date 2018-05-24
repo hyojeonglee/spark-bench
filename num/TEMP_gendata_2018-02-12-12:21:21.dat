@@ -1,0 +1,100 @@
+18/02/12 12:21:21 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/02/12 12:21:24 WARN internal.ThreadLocalRandom: Failed to generate a seed from SecureRandom within 3 seconds. Not enough entrophy?
+18/02/12 12:21:25 INFO util.log: Logging initialized @3977ms
+18/02/12 12:21:25 INFO server.Server: jetty-9.2.z-SNAPSHOT
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@7651218e{/jobs,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@3185fa6b{/jobs/json,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@6d366c9b{/jobs/job,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@5b58ed3c{/jobs/job/json,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@24faea88{/stages,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@3a320ade{/stages/json,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@64beebb7{/stages/stage,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@7813cb11{/stages/stage/json,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@bcec031{/stages/pool,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@21005f6c{/stages/pool/json,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@32f0fba8{/storage,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@545de5a4{/storage/json,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@29ef6856{/storage/rdd,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@ab7a938{/storage/rdd/json,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@3faf2e7d{/environment,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4648ce9{/environment/json,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@569bf9eb{/executors,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@61526469{/executors/json,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@274872f8{/executors/threadDump,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@76ba13c{/executors/threadDump/json,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@eb6449b{/static,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@7c351808{/,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@180e6ac4{/api,null,AVAILABLE}
+18/02/12 12:21:25 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@42b64ab8{/stages/stage/kill,null,AVAILABLE}
+18/02/12 12:21:25 INFO server.ServerConnector: Started ServerConnector@35beb15e{HTTP/1.1}{0.0.0.0:4040}
+18/02/12 12:21:25 INFO server.Server: Started @4056ms
+18/02/12 12:21:25 WARN client.StandaloneAppClient$ClientEndpoint: Failed to connect to master 10.1.0.111:7077
+org.apache.spark.SparkException: Exception thrown in awaitResult
+	at org.apache.spark.rpc.RpcTimeout$$anonfun$1.applyOrElse(RpcTimeout.scala:77)
+	at org.apache.spark.rpc.RpcTimeout$$anonfun$1.applyOrElse(RpcTimeout.scala:75)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:36)
+	at org.apache.spark.rpc.RpcTimeout$$anonfun$addMessageIfTimeout$1.applyOrElse(RpcTimeout.scala:59)
+	at org.apache.spark.rpc.RpcTimeout$$anonfun$addMessageIfTimeout$1.applyOrElse(RpcTimeout.scala:59)
+	at scala.PartialFunction$OrElse.apply(PartialFunction.scala:167)
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:83)
+	at org.apache.spark.rpc.RpcEnv.setupEndpointRefByURI(RpcEnv.scala:88)
+	at org.apache.spark.rpc.RpcEnv.setupEndpointRef(RpcEnv.scala:96)
+	at org.apache.spark.deploy.client.StandaloneAppClient$ClientEndpoint$$anonfun$tryRegisterAllMasters$1$$anon$1.run(StandaloneAppClient.scala:106)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.io.IOException: Failed to connect to /10.1.0.111:7077
+	at org.apache.spark.network.client.TransportClientFactory.createClient(TransportClientFactory.java:228)
+	at org.apache.spark.network.client.TransportClientFactory.createClient(TransportClientFactory.java:179)
+	at org.apache.spark.rpc.netty.NettyRpcEnv.createClient(NettyRpcEnv.scala:197)
+	at org.apache.spark.rpc.netty.Outbox$$anon$1.call(Outbox.scala:191)
+	at org.apache.spark.rpc.netty.Outbox$$anon$1.call(Outbox.scala:187)
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused: /10.1.0.111:7077
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:224)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:289)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:528)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:111)
+	... 1 more
+18/02/12 12:21:45 WARN client.StandaloneAppClient$ClientEndpoint: Failed to connect to master 10.1.0.111:7077
+org.apache.spark.SparkException: Exception thrown in awaitResult
+	at org.apache.spark.rpc.RpcTimeout$$anonfun$1.applyOrElse(RpcTimeout.scala:77)
+	at org.apache.spark.rpc.RpcTimeout$$anonfun$1.applyOrElse(RpcTimeout.scala:75)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:36)
+	at org.apache.spark.rpc.RpcTimeout$$anonfun$addMessageIfTimeout$1.applyOrElse(RpcTimeout.scala:59)
+	at org.apache.spark.rpc.RpcTimeout$$anonfun$addMessageIfTimeout$1.applyOrElse(RpcTimeout.scala:59)
+	at scala.PartialFunction$OrElse.apply(PartialFunction.scala:167)
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:83)
+	at org.apache.spark.rpc.RpcEnv.setupEndpointRefByURI(RpcEnv.scala:88)
+	at org.apache.spark.rpc.RpcEnv.setupEndpointRef(RpcEnv.scala:96)
+	at org.apache.spark.deploy.client.StandaloneAppClient$ClientEndpoint$$anonfun$tryRegisterAllMasters$1$$anon$1.run(StandaloneAppClient.scala:106)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.io.IOException: Failed to connect to /10.1.0.111:7077
+	at org.apache.spark.network.client.TransportClientFactory.createClient(TransportClientFactory.java:228)
+	at org.apache.spark.network.client.TransportClientFactory.createClient(TransportClientFactory.java:179)
+	at org.apache.spark.rpc.netty.NettyRpcEnv.createClient(NettyRpcEnv.scala:197)
+	at org.apache.spark.rpc.netty.Outbox$$anon$1.call(Outbox.scala:191)
+	at org.apache.spark.rpc.netty.Outbox$$anon$1.call(Outbox.scala:187)
+	... 4 more
+Caused by: java.net.ConnectException: Connection refused: /10.1.0.111:7077
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:224)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:289)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:528)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:111)
+	... 1 more
