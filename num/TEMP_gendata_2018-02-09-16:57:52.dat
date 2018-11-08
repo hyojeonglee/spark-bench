@@ -1,0 +1,146 @@
+18/02/09 16:57:53 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/02/09 16:57:53 INFO util.log: Logging initialized @983ms
+18/02/09 16:57:53 INFO server.Server: jetty-9.2.z-SNAPSHOT
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@7651218e{/jobs,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@3185fa6b{/jobs/json,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@6d366c9b{/jobs/job,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@5b58ed3c{/jobs/job/json,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@24faea88{/stages,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@3a320ade{/stages/json,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@64beebb7{/stages/stage,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@7813cb11{/stages/stage/json,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@bcec031{/stages/pool,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@21005f6c{/stages/pool/json,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@32f0fba8{/storage,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@545de5a4{/storage/json,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@29ef6856{/storage/rdd,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@ab7a938{/storage/rdd/json,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@3faf2e7d{/environment,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4648ce9{/environment/json,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@569bf9eb{/executors,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@61526469{/executors/json,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@274872f8{/executors/threadDump,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@76ba13c{/executors/threadDump/json,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@eb6449b{/static,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@7c351808{/,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@180e6ac4{/api,null,AVAILABLE}
+18/02/09 16:57:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@42b64ab8{/stages/stage/kill,null,AVAILABLE}
+18/02/09 16:57:53 INFO server.ServerConnector: Started ServerConnector@35beb15e{HTTP/1.1}{0.0.0.0:4040}
+18/02/09 16:57:53 INFO server.Server: Started @1062ms
+18/02/09 16:58:53 ERROR cluster.StandaloneSchedulerBackend: Application has been killed. Reason: All masters are unresponsive! Giving up.
+18/02/09 16:58:53 WARN cluster.StandaloneSchedulerBackend: Application ID is not initialized yet.
+18/02/09 16:58:53 INFO server.ServerConnector: Stopped ServerConnector@35beb15e{HTTP/1.1}{0.0.0.0:4040}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@42b64ab8{/stages/stage/kill,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@180e6ac4{/api,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@7c351808{/,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@eb6449b{/static,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@76ba13c{/executors/threadDump/json,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@274872f8{/executors/threadDump,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@61526469{/executors/json,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@569bf9eb{/executors,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@4648ce9{/environment/json,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@3faf2e7d{/environment,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@ab7a938{/storage/rdd/json,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@29ef6856{/storage/rdd,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@545de5a4{/storage/json,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@32f0fba8{/storage,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@21005f6c{/stages/pool/json,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@bcec031{/stages/pool,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@7813cb11{/stages/stage/json,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@64beebb7{/stages/stage,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@3a320ade{/stages/json,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@24faea88{/stages,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@5b58ed3c{/jobs/job/json,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@6d366c9b{/jobs/job,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@3185fa6b{/jobs/json,null,UNAVAILABLE}
+18/02/09 16:58:53 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@7651218e{/jobs,null,UNAVAILABLE}
+18/02/09 16:58:53 WARN client.StandaloneAppClient$ClientEndpoint: Drop UnregisterApplication(null) because has not yet connected to master
+18/02/09 16:58:53 ERROR spark.MapOutputTrackerMaster: Error communicating with MapOutputTracker
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.tryAcquireSharedNanos(AbstractQueuedSynchronizer.java:1326)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait(Promise.scala:208)
+	at scala.concurrent.impl.Promise$DefaultPromise.ready(Promise.scala:218)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:223)
+	at scala.concurrent.Await$$anonfun$result$1.apply(package.scala:190)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:53)
+	at scala.concurrent.Await$.result(package.scala:190)
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:81)
+	at org.apache.spark.rpc.RpcEndpointRef.askWithRetry(RpcEndpointRef.scala:102)
+	at org.apache.spark.rpc.RpcEndpointRef.askWithRetry(RpcEndpointRef.scala:78)
+	at org.apache.spark.MapOutputTracker.askTracker(MapOutputTracker.scala:100)
+	at org.apache.spark.MapOutputTracker.sendTracker(MapOutputTracker.scala:110)
+	at org.apache.spark.MapOutputTrackerMaster.stop(MapOutputTracker.scala:580)
+	at org.apache.spark.SparkEnv.stop(SparkEnv.scala:84)
+	at org.apache.spark.SparkContext$$anonfun$stop$11.apply$mcV$sp(SparkContext.scala:1797)
+	at org.apache.spark.util.Utils$.tryLogNonFatalError(Utils.scala:1290)
+	at org.apache.spark.SparkContext.stop(SparkContext.scala:1796)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.dead(StandaloneSchedulerBackend.scala:142)
+	at org.apache.spark.deploy.client.StandaloneAppClient$ClientEndpoint.markDead(StandaloneAppClient.scala:254)
+	at org.apache.spark.deploy.client.StandaloneAppClient$ClientEndpoint$$anon$2.run(StandaloneAppClient.scala:131)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+18/02/09 16:58:53 ERROR util.Utils: Uncaught exception in thread appclient-registration-retry-thread
+org.apache.spark.SparkException: Error communicating with MapOutputTracker
+	at org.apache.spark.MapOutputTracker.askTracker(MapOutputTracker.scala:104)
+	at org.apache.spark.MapOutputTracker.sendTracker(MapOutputTracker.scala:110)
+	at org.apache.spark.MapOutputTrackerMaster.stop(MapOutputTracker.scala:580)
+	at org.apache.spark.SparkEnv.stop(SparkEnv.scala:84)
+	at org.apache.spark.SparkContext$$anonfun$stop$11.apply$mcV$sp(SparkContext.scala:1797)
+	at org.apache.spark.util.Utils$.tryLogNonFatalError(Utils.scala:1290)
+	at org.apache.spark.SparkContext.stop(SparkContext.scala:1796)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.dead(StandaloneSchedulerBackend.scala:142)
+	at org.apache.spark.deploy.client.StandaloneAppClient$ClientEndpoint.markDead(StandaloneAppClient.scala:254)
+	at org.apache.spark.deploy.client.StandaloneAppClient$ClientEndpoint$$anon$2.run(StandaloneAppClient.scala:131)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.tryAcquireSharedNanos(AbstractQueuedSynchronizer.java:1326)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait(Promise.scala:208)
+	at scala.concurrent.impl.Promise$DefaultPromise.ready(Promise.scala:218)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:223)
+	at scala.concurrent.Await$$anonfun$result$1.apply(package.scala:190)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:53)
+	at scala.concurrent.Await$.result(package.scala:190)
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:81)
+	at org.apache.spark.rpc.RpcEndpointRef.askWithRetry(RpcEndpointRef.scala:102)
+	at org.apache.spark.rpc.RpcEndpointRef.askWithRetry(RpcEndpointRef.scala:78)
+	at org.apache.spark.MapOutputTracker.askTracker(MapOutputTracker.scala:100)
+	... 16 more
+18/02/09 16:58:53 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@50cf5a23{/metrics/json,null,AVAILABLE}
+18/02/09 16:58:53 ERROR spark.SparkContext: Error initializing SparkContext.
+java.lang.NullPointerException
+	at org.apache.spark.SparkContext.<init>(SparkContext.scala:546)
+	at kmeans_min.src.main.scala.KmeansDataGen$.main(KmeansDataGen.scala:33)
+	at kmeans_min.src.main.scala.KmeansDataGen.main(KmeansDataGen.scala)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.spark.deploy.SparkSubmit$.org$apache$spark$deploy$SparkSubmit$$runMain(SparkSubmit.scala:736)
+	at org.apache.spark.deploy.SparkSubmit$.doRunMain$1(SparkSubmit.scala:185)
+	at org.apache.spark.deploy.SparkSubmit$.submit(SparkSubmit.scala:210)
+	at org.apache.spark.deploy.SparkSubmit$.main(SparkSubmit.scala:124)
+	at org.apache.spark.deploy.SparkSubmit.main(SparkSubmit.scala)
+Exception in thread "main" java.lang.NullPointerException
+	at org.apache.spark.SparkContext.<init>(SparkContext.scala:546)
+	at kmeans_min.src.main.scala.KmeansDataGen$.main(KmeansDataGen.scala:33)
+	at kmeans_min.src.main.scala.KmeansDataGen.main(KmeansDataGen.scala)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.spark.deploy.SparkSubmit$.org$apache$spark$deploy$SparkSubmit$$runMain(SparkSubmit.scala:736)
+	at org.apache.spark.deploy.SparkSubmit$.doRunMain$1(SparkSubmit.scala:185)
+	at org.apache.spark.deploy.SparkSubmit$.submit(SparkSubmit.scala:210)
+	at org.apache.spark.deploy.SparkSubmit$.main(SparkSubmit.scala:124)
+	at org.apache.spark.deploy.SparkSubmit.main(SparkSubmit.scala)

@@ -777,3 +777,5 @@ SVDPlusPlus,2018-11-05-19:15:25,.409000,506.631015,1238.706638,0,SVDPlusPlus-MLl
 LogisticRegression,2018-11-05-22:43:15,.463000,7.598749,16.411984,0,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
 #Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
 SVM,2018-11-05-22:44:12,.480000,3.924085,8.175177,0,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+error: gen_report input variables less than 6
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
