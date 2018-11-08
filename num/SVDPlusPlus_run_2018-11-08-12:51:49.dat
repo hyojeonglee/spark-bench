@@ -1,0 +1,4 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+18/11/08 12:51:50 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/11/08 12:51:52 INFO FileInputFormat: Total input paths to process : 10
+[Stage 0:>                                                         (0 + 0) / 10]18/11/08 12:52:07 WARN TaskSchedulerImpl: Initial job has not accepted any resources; check your cluster UI to ensure that workers are registered and have sufficient resources

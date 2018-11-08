@@ -1,0 +1,414 @@
+18/03/12 14:51:59 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/03/12 14:51:59 INFO util.log: Logging initialized @985ms
+18/03/12 14:51:59 INFO server.Server: jetty-9.2.z-SNAPSHOT
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@44c79f32{/jobs,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@7fcbe147{/jobs/json,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@235f4c10{/jobs/job,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@743cb8e0{/jobs/job/json,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@c7a975a{/stages,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@2c1b9e4b{/stages/json,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@757d6814{/stages/stage,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@649725e3{/stages/stage/json,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@3c0fae6c{/stages/pool,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4c168660{/stages/pool/json,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@52b56a3e{/storage,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@fd0e5b6{/storage/json,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4eed46ee{/storage/rdd,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@36b0fcd5{/storage/rdd/json,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4fad94a7{/environment,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@475835b1{/environment/json,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@6326d182{/executors,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@5241cf67{/executors/json,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@716a7124{/executors/threadDump,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@77192705{/executors/threadDump/json,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@226642a5{/static,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@7e809b79{/,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@5cc126dc{/api,null,AVAILABLE}
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@625e134e{/stages/stage/kill,null,AVAILABLE}
+18/03/12 14:51:59 INFO server.ServerConnector: Started ServerConnector@5f121c8f{HTTP/1.1}{0.0.0.0:4040}
+18/03/12 14:51:59 INFO server.Server: Started @1065ms
+18/03/12 14:51:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@26f3d90c{/metrics/json,null,AVAILABLE}
+18/03/12 14:52:00 INFO mapred.FileInputFormat: Total input paths to process : 200
+[Stage 0:>                                                         (0 + 0) / 10][Stage 0:>                                                         (0 + 8) / 10][Stage 0:>                                                         (0 + 9) / 10][Stage 0:=======================>                                  (4 + 6) / 10][Stage 0:==================================>                       (6 + 4) / 10][Stage 0:==============================================>           (8 + 2) / 10][Stage 0:=========================================================(10 + 0) / 10]                                                                                [Stage 1:>                                                         (0 + 8) / 10][Stage 1:===========>                                              (2 + 7) / 10][Stage 1:=================>                                        (3 + 7) / 10][Stage 1:=======================>                                  (4 + 6) / 10][Stage 1:==============================================>           (8 + 2) / 10][Stage 2:>                                                         (0 + 8) / 10][Stage 2:===========>                                              (2 + 8) / 10][Stage 2:=================>                                        (3 + 7) / 10][Stage 2:=======================>                                  (4 + 6) / 10][Stage 2:=============================>                            (5 + 5) / 10][Stage 2:==============================================>           (8 + 2) / 10][Stage 2:====================================================>     (9 + 1) / 10]                                                                                [Stage 4:>                                                         (0 + 8) / 10]18/03/12 14:54:43 WARN scheduler.TaskSetManager: Lost task 2.0 in stage 4.0 (TID 32, 10.1.0.112): java.lang.OutOfMemoryError: Java heap space
+	at org.apache.spark.graphx.impl.EdgePartitionBuilder.toEdgePartition(EdgePartitionBuilder.scala:41)
+	at org.apache.spark.graphx.EdgeRDD$$anonfun$1.apply(EdgeRDD.scala:110)
+	at org.apache.spark.graphx.EdgeRDD$$anonfun$1.apply(EdgeRDD.scala:105)
+	at org.apache.spark.rdd.RDD$$anonfun$mapPartitionsWithIndex$1$$anonfun$apply$25.apply(RDD.scala:820)
+	at org.apache.spark.rdd.RDD$$anonfun$mapPartitionsWithIndex$1$$anonfun$apply$25.apply(RDD.scala:820)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:79)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:47)
+	at org.apache.spark.scheduler.Task.run(Task.scala:86)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:274)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+18/03/12 14:54:44 ERROR scheduler.TaskSchedulerImpl: Lost executor 0 on 10.1.0.112: Remote RPC client disassociated. Likely due to containers exceeding thresholds, or network issues. Check driver logs for WARN messages.
+18/03/12 14:54:44 WARN scheduler.TaskSetManager: Lost task 8.0 in stage 4.0 (TID 38, 10.1.0.112): ExecutorLostFailure (executor 0 exited caused by one of the running tasks) Reason: Remote RPC client disassociated. Likely due to containers exceeding thresholds, or network issues. Check driver logs for WARN messages.
+18/03/12 14:54:44 WARN scheduler.TaskSetManager: Lost task 4.0 in stage 4.0 (TID 34, 10.1.0.112): ExecutorLostFailure (executor 0 exited caused by one of the running tasks) Reason: Remote RPC client disassociated. Likely due to containers exceeding thresholds, or network issues. Check driver logs for WARN messages.
+18/03/12 14:54:44 WARN scheduler.TaskSetManager: Lost task 6.0 in stage 4.0 (TID 36, 10.1.0.112): ExecutorLostFailure (executor 0 exited caused by one of the running tasks) Reason: Remote RPC client disassociated. Likely due to containers exceeding thresholds, or network issues. Check driver logs for WARN messages.
+18/03/12 14:54:44 WARN scheduler.TaskSetManager: Lost task 9.0 in stage 4.0 (TID 39, 10.1.0.112): ExecutorLostFailure (executor 0 exited caused by one of the running tasks) Reason: Remote RPC client disassociated. Likely due to containers exceeding thresholds, or network issues. Check driver logs for WARN messages.
+[Stage 4:>                                                         (0 + 4) / 10][Stage 4:>                                                         (0 + 8) / 10]18/03/12 14:54:50 WARN scheduler.TaskSetManager: Lost task 0.1 in stage 4.0 (TID 44, 10.1.0.112): FetchFailed(BlockManagerId(1, 10.1.0.112, 36633), shuffleId=0, mapId=0, reduceId=0, message=
+org.apache.spark.shuffle.FetchFailedException: /tmp/spark-a0825d95-fbbb-4679-9d3b-87e1eb49dae6/executor-926ba6ff-39de-4a10-a171-4e49b59931ad/blockmgr-d150dbd1-da4a-4895-8173-0d3aa759b61c/30/shuffle_0_0_0.index (No such file or directory)
+	at org.apache.spark.storage.ShuffleBlockFetcherIterator.throwFetchFailedException(ShuffleBlockFetcherIterator.scala:357)
+	at org.apache.spark.storage.ShuffleBlockFetcherIterator.next(ShuffleBlockFetcherIterator.scala:332)
+	at org.apache.spark.storage.ShuffleBlockFetcherIterator.next(ShuffleBlockFetcherIterator.scala:54)
+	at scala.collection.Iterator$$anon$11.next(Iterator.scala:409)
+	at scala.collection.Iterator$$anon$12.nextCur(Iterator.scala:434)
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:440)
+	at scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:408)
+	at org.apache.spark.util.CompletionIterator.hasNext(CompletionIterator.scala:32)
+	at org.apache.spark.InterruptibleIterator.hasNext(InterruptibleIterator.scala:39)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:893)
+	at org.apache.spark.InterruptibleIterator.foreach(InterruptibleIterator.scala:28)
+	at org.apache.spark.graphx.impl.GraphImpl$$anonfun$4.apply(GraphImpl.scala:108)
+	at org.apache.spark.graphx.impl.GraphImpl$$anonfun$4.apply(GraphImpl.scala:106)
+	at org.apache.spark.rdd.RDD$$anonfun$mapPartitionsWithIndex$1$$anonfun$apply$25.apply(RDD.scala:820)
+	at org.apache.spark.rdd.RDD$$anonfun$mapPartitionsWithIndex$1$$anonfun$apply$25.apply(RDD.scala:820)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.graphx.EdgeRDD.compute(EdgeRDD.scala:50)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:79)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:47)
+	at org.apache.spark.scheduler.Task.run(Task.scala:86)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:274)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.io.FileNotFoundException: /tmp/spark-a0825d95-fbbb-4679-9d3b-87e1eb49dae6/executor-926ba6ff-39de-4a10-a171-4e49b59931ad/blockmgr-d150dbd1-da4a-4895-8173-0d3aa759b61c/30/shuffle_0_0_0.index (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.apache.spark.shuffle.IndexShuffleBlockResolver.getBlockData(IndexShuffleBlockResolver.scala:198)
+	at org.apache.spark.storage.BlockManager.getBlockData(BlockManager.scala:278)
+	at org.apache.spark.storage.ShuffleBlockFetcherIterator.fetchLocalBlocks(ShuffleBlockFetcherIterator.scala:258)
+	at org.apache.spark.storage.ShuffleBlockFetcherIterator.initialize(ShuffleBlockFetcherIterator.scala:292)
+	at org.apache.spark.storage.ShuffleBlockFetcherIterator.<init>(ShuffleBlockFetcherIterator.scala:120)
+	at org.apache.spark.shuffle.BlockStoreShuffleReader.read(BlockStoreShuffleReader.scala:45)
+	at org.apache.spark.rdd.ShuffledRDD.compute(ShuffledRDD.scala:109)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	... 46 more
+
+)
+18/03/12 14:54:50 WARN scheduler.TaskSetManager: Lost task 6.1 in stage 4.0 (TID 41, 10.1.0.112): FetchFailed(null, shuffleId=0, mapId=-1, reduceId=6, message=
+org.apache.spark.shuffle.MetadataFetchFailedException: Missing an output location for shuffle 0
+	at org.apache.spark.MapOutputTracker$$anonfun$org$apache$spark$MapOutputTracker$$convertMapStatuses$2.apply(MapOutputTracker.scala:695)
+	at org.apache.spark.MapOutputTracker$$anonfun$org$apache$spark$MapOutputTracker$$convertMapStatuses$2.apply(MapOutputTracker.scala:691)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.apache.spark.MapOutputTracker$.org$apache$spark$MapOutputTracker$$convertMapStatuses(MapOutputTracker.scala:691)
+	at org.apache.spark.MapOutputTracker.getMapSizesByExecutorId(MapOutputTracker.scala:145)
+	at org.apache.spark.shuffle.BlockStoreShuffleReader.read(BlockStoreShuffleReader.scala:49)
+	at org.apache.spark.rdd.ShuffledRDD.compute(ShuffledRDD.scala:109)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.graphx.EdgeRDD.compute(EdgeRDD.scala:50)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:79)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:47)
+	at org.apache.spark.scheduler.Task.run(Task.scala:86)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:274)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+)
+18/03/12 14:54:50 WARN scheduler.TaskSetManager: Lost task 9.1 in stage 4.0 (TID 40, 10.1.0.112): FetchFailed(null, shuffleId=0, mapId=-1, reduceId=9, message=
+org.apache.spark.shuffle.MetadataFetchFailedException: Missing an output location for shuffle 0
+	at org.apache.spark.MapOutputTracker$$anonfun$org$apache$spark$MapOutputTracker$$convertMapStatuses$2.apply(MapOutputTracker.scala:695)
+	at org.apache.spark.MapOutputTracker$$anonfun$org$apache$spark$MapOutputTracker$$convertMapStatuses$2.apply(MapOutputTracker.scala:691)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.apache.spark.MapOutputTracker$.org$apache$spark$MapOutputTracker$$convertMapStatuses(MapOutputTracker.scala:691)
+	at org.apache.spark.MapOutputTracker.getMapSizesByExecutorId(MapOutputTracker.scala:145)
+	at org.apache.spark.shuffle.BlockStoreShuffleReader.read(BlockStoreShuffleReader.scala:49)
+	at org.apache.spark.rdd.ShuffledRDD.compute(ShuffledRDD.scala:109)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.graphx.EdgeRDD.compute(EdgeRDD.scala:50)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:79)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:47)
+	at org.apache.spark.scheduler.Task.run(Task.scala:86)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:274)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+)
+18/03/12 14:54:50 WARN scheduler.TaskSetManager: Lost task 8.1 in stage 4.0 (TID 43, 10.1.0.112): FetchFailed(null, shuffleId=0, mapId=-1, reduceId=8, message=
+org.apache.spark.shuffle.MetadataFetchFailedException: Missing an output location for shuffle 0
+	at org.apache.spark.MapOutputTracker$$anonfun$org$apache$spark$MapOutputTracker$$convertMapStatuses$2.apply(MapOutputTracker.scala:695)
+	at org.apache.spark.MapOutputTracker$$anonfun$org$apache$spark$MapOutputTracker$$convertMapStatuses$2.apply(MapOutputTracker.scala:691)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.apache.spark.MapOutputTracker$.org$apache$spark$MapOutputTracker$$convertMapStatuses(MapOutputTracker.scala:691)
+	at org.apache.spark.MapOutputTracker.getMapSizesByExecutorId(MapOutputTracker.scala:145)
+	at org.apache.spark.shuffle.BlockStoreShuffleReader.read(BlockStoreShuffleReader.scala:49)
+	at org.apache.spark.rdd.ShuffledRDD.compute(ShuffledRDD.scala:109)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.graphx.EdgeRDD.compute(EdgeRDD.scala:50)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:79)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:47)
+	at org.apache.spark.scheduler.Task.run(Task.scala:86)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:274)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+)
+18/03/12 14:54:50 WARN scheduler.TaskSetManager: Lost task 4.1 in stage 4.0 (TID 42, 10.1.0.112): FetchFailed(null, shuffleId=0, mapId=-1, reduceId=4, message=
+org.apache.spark.shuffle.MetadataFetchFailedException: Missing an output location for shuffle 0
+	at org.apache.spark.MapOutputTracker$$anonfun$org$apache$spark$MapOutputTracker$$convertMapStatuses$2.apply(MapOutputTracker.scala:695)
+	at org.apache.spark.MapOutputTracker$$anonfun$org$apache$spark$MapOutputTracker$$convertMapStatuses$2.apply(MapOutputTracker.scala:691)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.apache.spark.MapOutputTracker$.org$apache$spark$MapOutputTracker$$convertMapStatuses(MapOutputTracker.scala:691)
+	at org.apache.spark.MapOutputTracker.getMapSizesByExecutorId(MapOutputTracker.scala:145)
+	at org.apache.spark.shuffle.BlockStoreShuffleReader.read(BlockStoreShuffleReader.scala:49)
+	at org.apache.spark.rdd.ShuffledRDD.compute(ShuffledRDD.scala:109)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.graphx.EdgeRDD.compute(EdgeRDD.scala:50)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:332)
+	at org.apache.spark.rdd.RDD$$anonfun$8.apply(RDD.scala:330)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:935)
+	at org.apache.spark.storage.BlockManager$$anonfun$doPutIterator$1.apply(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.doPut(BlockManager.scala:866)
+	at org.apache.spark.storage.BlockManager.doPutIterator(BlockManager.scala:926)
+	at org.apache.spark.storage.BlockManager.getOrElseUpdate(BlockManager.scala:670)
+	at org.apache.spark.rdd.RDD.getOrCompute(RDD.scala:330)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:281)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:319)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:283)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:79)
+	at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:47)
+	at org.apache.spark.scheduler.Task.run(Task.scala:86)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:274)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+)
+18/03/12 14:54:51 WARN server.TransportChannelHandler: Exception in connection from /10.1.0.112:42254
+java.io.IOException: Connection reset by peer
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:313)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:242)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+18/03/12 14:54:51 ERROR scheduler.TaskSchedulerImpl: Lost executor 1 on 10.1.0.112: Command exited with code 52
+18/03/12 14:54:51 WARN scheduler.TaskSetManager: Lost task 5.0 in stage 4.0 (TID 35, 10.1.0.112): ExecutorLostFailure (executor 1 exited caused by one of the running tasks) Reason: Command exited with code 52
+18/03/12 14:54:51 WARN scheduler.TaskSetManager: Lost task 1.1 in stage 4.0 (TID 46, 10.1.0.112): ExecutorLostFailure (executor 1 exited caused by one of the running tasks) Reason: Command exited with code 52
+18/03/12 14:54:51 WARN scheduler.TaskSetManager: Lost task 7.0 in stage 4.0 (TID 37, 10.1.0.112): ExecutorLostFailure (executor 1 exited caused by one of the running tasks) Reason: Command exited with code 52
+18/03/12 14:54:51 WARN scheduler.TaskSetManager: Lost task 3.1 in stage 4.0 (TID 45, 10.1.0.112): ExecutorLostFailure (executor 1 exited caused by one of the running tasks) Reason: Command exited with code 52
+[Stage 3:>                                                         (0 + 4) / 10][Stage 3:>                                                         (0 + 8) / 10]

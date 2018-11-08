@@ -1,0 +1,779 @@
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPoints,nClusters,nPar,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,KMeans-MLlibConfig,,,,,1000,2,2,2,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+error: gen_report input variables less than 6
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+error: gen_report input variables less than 6
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+error: gen_report input variables less than 6
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+error: gen_report input variables less than 6
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+error: gen_report input variables less than 6
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+error: gen_report input variables less than 6
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+"bc" utility missing. Please install it to generate proper report.
+,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+"bc" utility missing. Please install it to generate proper report.
+,SVM-MLlibConfig,,,,,20000,10,,10,,3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,PageRank-MLlibConfig,,,,,2,5,,200,4.0,1.3,0.15
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+"bc" utility missing. Please install it to generate proper report.
+,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-15:08:22,157.621000,506.631015,3.214235,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-15:11:41,159.595000,506.631015,3.174479,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-15:28:09,157.803000,506.631015,3.210528,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-15:31:41,159.633000,506.631015,3.173723,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-15:58:21,.132000,506.631015,3838.113750,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-16:00:52,.140000,506.631015,3618.792964,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-16:03:09,.149000,506.631015,3400.208154,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-16:03:50,.136000,506.631015,3725.228051,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-16:04:48,.142000,506.631015,3567.824049,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-16:23:36,.448000,506.631015,1130.872801,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-16:24:17,.459000,506.631015,1103.771274,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-16:27:29,159.099000,506.631015,3.184375,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-16:36:51,.911000,506.631015,556.126251,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nPar,nIter,memoryFraction,numV,mu,sigma,reset_prob
+SVDPlusPlus,2018-11-05-19:15:25,.409000,506.631015,1238.706638,0,SVDPlusPlus-MLlibConfig,,,,,10,,,50000,4.0,1.3,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction,STEP_SIZE,noise,lambda,miniBatch,sparseness,convergenceTol
+LogisticRegression,2018-11-05-22:43:15,.463000,7.598749,16.411984,0,LogisticRegression-MLlibConfig,,,,,20000,20,0.5,10,,3,,,,,,,
+#Apptype,start_ts,duration,size,throughput,resStatus,AppType,nExe,driverMem,exeMem,exeCore,nExample,nFeature,EPS,nPar,Intercepts,nIter,memoryFraction
+SVM,2018-11-05-22:44:12,.480000,3.924085,8.175177,0,SVM-MLlibConfig,,,,,20000,10,,10,,3,

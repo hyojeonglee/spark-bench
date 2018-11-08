@@ -1,0 +1,95 @@
+18/05/16 11:16:59 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/05/16 11:16:59 INFO util.log: Logging initialized @1017ms
+18/05/16 11:16:59 INFO server.Server: jetty-9.2.z-SNAPSHOT
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4c168660{/jobs,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@52b56a3e{/jobs/json,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@fd0e5b6{/jobs/job,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4eed46ee{/jobs/job/json,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@36b0fcd5{/stages,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4fad94a7{/stages/json,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@475835b1{/stages/stage,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@6326d182{/stages/stage/json,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@5241cf67{/stages/pool,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@716a7124{/stages/pool/json,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@77192705{/storage,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@226642a5{/storage/json,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@7e809b79{/storage/rdd,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@5cc126dc{/storage/rdd/json,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@625e134e{/environment,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@72bd06ca{/environment/json,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@89c10b7{/executors,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@5dbe30be{/executors/json,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4fe89c24{/executors/threadDump,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@55795845{/executors/threadDump/json,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@3d08f3f5{/static,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@119f1f2a{/,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@1a1da881{/api,null,AVAILABLE}
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@5b970f7{/stages/stage/kill,null,AVAILABLE}
+18/05/16 11:16:59 INFO server.ServerConnector: Started ServerConnector@60b71e8f{HTTP/1.1}{0.0.0.0:4040}
+18/05/16 11:16:59 INFO server.Server: Started @1088ms
+18/05/16 11:16:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@777c9dc9{/metrics/json,null,AVAILABLE}
+test data 
+Exception in thread "main" org.apache.hadoop.mapred.InvalidInputException: Input path does not exist: hdfs://10.1.0.111:9000/SparkBench/SVM/Input
+	at org.apache.hadoop.mapred.FileInputFormat.singleThreadedListStatus(FileInputFormat.java:287)
+	at org.apache.hadoop.mapred.FileInputFormat.listStatus(FileInputFormat.java:229)
+	at org.apache.hadoop.mapred.FileInputFormat.getSplits(FileInputFormat.java:315)
+	at org.apache.spark.rdd.HadoopRDD.getPartitions(HadoopRDD.scala:199)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:248)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:246)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:246)
+	at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:35)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:248)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:246)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:246)
+	at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:35)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:248)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:246)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:246)
+	at org.apache.spark.rdd.RDD$$anonfun$subtract$1$$anonfun$14.apply(RDD.scala:947)
+	at org.apache.spark.rdd.RDD$$anonfun$subtract$1$$anonfun$14.apply(RDD.scala:947)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.apache.spark.rdd.RDD$$anonfun$subtract$1.apply(RDD.scala:947)
+	at org.apache.spark.rdd.RDD$$anonfun$subtract$1.apply(RDD.scala:947)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112)
+	at org.apache.spark.rdd.RDD.withScope(RDD.scala:358)
+	at org.apache.spark.rdd.RDD.subtract(RDD.scala:946)
+	at org.apache.spark.api.java.JavaRDD.subtract(JavaRDD.scala:166)
+	at SVM.src.main.java.SVMApp.main(SVMApp.java:79)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.spark.deploy.SparkSubmit$.org$apache$spark$deploy$SparkSubmit$$runMain(SparkSubmit.scala:736)
+	at org.apache.spark.deploy.SparkSubmit$.doRunMain$1(SparkSubmit.scala:185)
+	at org.apache.spark.deploy.SparkSubmit$.submit(SparkSubmit.scala:210)
+	at org.apache.spark.deploy.SparkSubmit$.main(SparkSubmit.scala:124)
+	at org.apache.spark.deploy.SparkSubmit.main(SparkSubmit.scala)
+18/05/16 11:17:00 INFO server.ServerConnector: Stopped ServerConnector@60b71e8f{HTTP/1.1}{0.0.0.0:4040}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@5b970f7{/stages/stage/kill,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@1a1da881{/api,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@119f1f2a{/,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@3d08f3f5{/static,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@55795845{/executors/threadDump/json,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@4fe89c24{/executors/threadDump,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@5dbe30be{/executors/json,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@89c10b7{/executors,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@72bd06ca{/environment/json,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@625e134e{/environment,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@5cc126dc{/storage/rdd/json,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@7e809b79{/storage/rdd,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@226642a5{/storage/json,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@77192705{/storage,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@716a7124{/stages/pool/json,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@5241cf67{/stages/pool,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@6326d182{/stages/stage/json,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@475835b1{/stages/stage,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@4fad94a7{/stages/json,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@36b0fcd5{/stages,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@4eed46ee{/jobs/job/json,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@fd0e5b6{/jobs/job,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@52b56a3e{/jobs/json,null,UNAVAILABLE}
+18/05/16 11:17:00 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@4c168660{/jobs,null,UNAVAILABLE}

@@ -1,0 +1,8 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+18/05/16 22:23:50 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/05/16 22:23:53 WARN ThreadLocalRandom: Failed to generate a seed from SecureRandom within 3 seconds. Not enough entrophy?
+18/05/16 22:23:54 INFO FileInputFormat: Total input paths to process : 10
+[Stage 1:=====>                                                    (1 + 0) / 10][Stage 1:=====>                                                    (1 + 8) / 10][Stage 1:==================================>                       (6 + 4) / 10]                                                                                18/05/16 22:24:01 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+18/05/16 22:24:01 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+{"loadTime":0.561,"trainingTime":7.764,"testTime":0.090}
+training Mean Squared Error = 0.24820000000000003

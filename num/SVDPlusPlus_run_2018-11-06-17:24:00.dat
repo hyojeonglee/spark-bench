@@ -1,0 +1,4 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+18/11/06 17:24:01 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/11/06 17:24:03 INFO FileInputFormat: Total input paths to process : 10
+[Stage 0:>                                                         (0 + 0) / 10]

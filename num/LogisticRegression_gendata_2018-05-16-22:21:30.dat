@@ -1,0 +1,62 @@
+18/05/16 22:21:31 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/05/16 22:21:34 WARN internal.ThreadLocalRandom: Failed to generate a seed from SecureRandom within 3 seconds. Not enough entrophy?
+18/05/16 22:21:34 INFO util.log: Logging initialized @4035ms
+18/05/16 22:21:34 INFO server.Server: jetty-9.2.z-SNAPSHOT
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@6e16b8b5{/jobs,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@43b4fe19{/jobs/json,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@25ddbbbb{/jobs/job,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@1536602f{/jobs/job/json,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4ebea12c{/stages,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@2a1edad4{/stages/json,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@6256ac4f{/stages/stage,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@44c79f32{/stages/stage/json,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@7fcbe147{/stages/pool,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@235f4c10{/stages/pool/json,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@743cb8e0{/storage,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@c7a975a{/storage/json,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@2c1b9e4b{/storage/rdd,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@757d6814{/storage/rdd/json,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@649725e3{/environment,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@3c0fae6c{/environment/json,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4c168660{/executors,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@52b56a3e{/executors/json,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@fd0e5b6{/executors/threadDump,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4eed46ee{/executors/threadDump/json,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@36b0fcd5{/static,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4fad94a7{/,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@475835b1{/api,null,AVAILABLE}
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@6326d182{/stages/stage/kill,null,AVAILABLE}
+18/05/16 22:21:34 INFO server.ServerConnector: Started ServerConnector@1ec3730a{HTTP/1.1}{0.0.0.0:4040}
+18/05/16 22:21:34 INFO server.Server: Started @4112ms
+18/05/16 22:21:34 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@51671b08{/metrics/json,null,AVAILABLE}
+18/05/16 22:21:35 INFO Configuration.deprecation: mapred.tip.id is deprecated. Instead, use mapreduce.task.id
+18/05/16 22:21:35 INFO Configuration.deprecation: mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id
+18/05/16 22:21:35 INFO Configuration.deprecation: mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap
+18/05/16 22:21:35 INFO Configuration.deprecation: mapred.task.partition is deprecated. Instead, use mapreduce.task.partition
+18/05/16 22:21:35 INFO Configuration.deprecation: mapred.job.id is deprecated. Instead, use mapreduce.job.id
+18/05/16 22:21:35 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1
+[Stage 0:>                                                         (0 + 0) / 10][Stage 0:>                                                         (0 + 1) / 10][Stage 0:===========>                                              (2 + 1) / 10][Stage 0:=============================>                            (5 + 1) / 10][Stage 0:====================================================>     (9 + 1) / 10]                                                                                18/05/16 22:21:39 INFO server.ServerConnector: Stopped ServerConnector@1ec3730a{HTTP/1.1}{0.0.0.0:4040}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@6326d182{/stages/stage/kill,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@475835b1{/api,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@4fad94a7{/,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@36b0fcd5{/static,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@4eed46ee{/executors/threadDump/json,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@fd0e5b6{/executors/threadDump,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@52b56a3e{/executors/json,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@4c168660{/executors,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@3c0fae6c{/environment/json,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@649725e3{/environment,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@757d6814{/storage/rdd/json,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@2c1b9e4b{/storage/rdd,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@c7a975a{/storage/json,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@743cb8e0{/storage,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@235f4c10{/stages/pool/json,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@7fcbe147{/stages/pool,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@44c79f32{/stages/stage/json,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@6256ac4f{/stages/stage,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@2a1edad4{/stages/json,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@4ebea12c{/stages,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@1536602f{/jobs/job/json,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@25ddbbbb{/jobs/job,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@43b4fe19{/jobs/json,null,UNAVAILABLE}
+18/05/16 22:21:39 INFO handler.ContextHandler: Stopped o.s.j.s.ServletContextHandler@6e16b8b5{/jobs,null,UNAVAILABLE}

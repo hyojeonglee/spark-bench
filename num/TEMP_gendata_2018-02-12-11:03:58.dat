@@ -1,0 +1,39 @@
+18/02/12 11:03:58 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/02/12 11:03:59 INFO util.log: Logging initialized @955ms
+18/02/12 11:03:59 INFO server.Server: jetty-9.2.z-SNAPSHOT
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@319988b0{/jobs,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@d5ae57e{/jobs/json,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@68759011{/jobs/job,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@7e242b4d{/jobs/job/json,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@305f031{/stages,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@592e843a{/stages/json,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@1d1f7216{/stages/stage,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@423e4cbb{/stages/stage/json,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@6e16b8b5{/stages/pool,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@43b4fe19{/stages/pool/json,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@25ddbbbb{/storage,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@1536602f{/storage/json,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@4ebea12c{/storage/rdd,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@2a1edad4{/storage/rdd/json,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@6256ac4f{/environment,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@44c79f32{/environment/json,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@7fcbe147{/executors,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@235f4c10{/executors/json,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@743cb8e0{/executors/threadDump,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@c7a975a{/executors/threadDump/json,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@2c1b9e4b{/static,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@757d6814{/,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@649725e3{/api,null,AVAILABLE}
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@3c0fae6c{/stages/stage/kill,null,AVAILABLE}
+18/02/12 11:03:59 INFO server.ServerConnector: Started ServerConnector@2bb7d4eb{HTTP/1.1}{0.0.0.0:4040}
+18/02/12 11:03:59 INFO server.Server: Started @1030ms
+18/02/12 11:03:59 INFO handler.ContextHandler: Started o.s.j.s.ServletContextHandler@5bb3d42d{/metrics/json,null,AVAILABLE}
+18/02/12 11:04:00 INFO Configuration.deprecation: mapred.tip.id is deprecated. Instead, use mapreduce.task.id
+18/02/12 11:04:00 INFO Configuration.deprecation: mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id
+18/02/12 11:04:00 INFO Configuration.deprecation: mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap
+18/02/12 11:04:00 INFO Configuration.deprecation: mapred.task.partition is deprecated. Instead, use mapreduce.task.partition
+18/02/12 11:04:00 INFO Configuration.deprecation: mapred.job.id is deprecated. Instead, use mapreduce.job.id
+18/02/12 11:04:00 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1
+[Stage 0:>                                                          (0 + 0) / 2]18/02/12 11:04:15 WARN scheduler.TaskSchedulerImpl: Initial job has not accepted any resources; check your cluster UI to ensure that workers are registered and have sufficient resources
+18/02/12 11:04:30 WARN scheduler.TaskSchedulerImpl: Initial job has not accepted any resources; check your cluster UI to ensure that workers are registered and have sufficient resources
+18/02/12 11:04:45 WARN scheduler.TaskSchedulerImpl: Initial job has not accepted any resources; check your cluster UI to ensure that workers are registered and have sufficient resources

@@ -1,0 +1,7 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+18/05/17 02:08:50 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/05/17 02:08:51 INFO FileInputFormat: Total input paths to process : 10
+[Stage 1:=====>                                                    (1 + 0) / 10][Stage 1:=====>                                                    (1 + 8) / 10][Stage 1:=============================>                            (5 + 5) / 10][Stage 1:==================================>                       (6 + 4) / 10]                                                                                18/05/17 02:08:58 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+18/05/17 02:08:58 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+{"loadTime":0.558,"trainingTime":7.768,"testTime":0.099}
+training Mean Squared Error = 0.24820000000000003
